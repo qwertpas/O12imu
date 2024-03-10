@@ -1399,7 +1399,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x06_Pin") (at 205.74 149.86 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 37500030-abf2-4e43-9c41-f3d401580eb1)
     (property "Reference" "J3" (at 204.47 147.32 0)
       (effects (font (size 1.27 1.27)) (justify right))
