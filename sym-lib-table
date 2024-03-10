@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "O12imu")(type "KiCad")(uri "${KIPRJMOD}/O12imu.kicad_sym")(options "")(descr ""))
+)
